@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "3+bkcrBOUuM=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\sekvi\\Desktop\\Projects\\Producer-consumer\\Producer-consumer\\RabbitMqConsumerProducer\\RabbitMqConsumerProducer.Consumer\\RabbitMqConsumerProducer.Consumer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\sekvi\\.nuget\\packages\\rabbitmq.client\\7.1.2\\rabbitmq.client.7.1.2.nupkg.sha512",
+    "C:\\Users\\sekvi\\.nuget\\packages\\system.io.pipelines\\8.0.0\\system.io.pipelines.8.0.0.nupkg.sha512",
+    "C:\\Users\\sekvi\\.nuget\\packages\\system.threading.ratelimiting\\8.0.0\\system.threading.ratelimiting.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
